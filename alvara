@@ -1,0 +1,256 @@
+<!DOCTYPE HTML>
+<!--
+	Editorial by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>At the Roots</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<meta property="og:title" content="At the Roots" />
+		<meta property="og:description" content="Alexander Alvara is a PhD student studying mechanical engineering at UC Berkeley." />
+		<meta property="og:image" content="https://oliviajerram.github.io/images/Sara_Kahanamoku_cropped.jpg" />
+		<meta property="twitter:title" content="At the Roots" />
+		<meta property="twitter:description" content="Alexander Alvara is a PhD student studying mechanical engineering at UC Berkeley." />
+		<meta property="twitter:image" content="https://oliviajerram.github.io/images/Sara_Kahanamoku_cropped.jpg" />
+		<meta name="twitter:card" content="summary_large_image" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-172722444-1"></script>
+		<script>
+ 		window.dataLayer = window.dataLayer || [];
+  		function gtag(){dataLayer.push(arguments);}
+  		gtag('js', new Date());
+
+  		gtag('config', 'UA-172722444-1');
+		</script>
+		
+		<style>
+			span.small {
+  			font-size: smaller;
+			}
+		</style>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+
+							<!-- Header -->
+								<header id="header">
+									<a href="index.html" class="logo"><strong>At the Roots</strong></a>
+									<ul class="icons">
+										<li><a href="https://twitter.com/at_theroots" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+										<li><a href="https://www.facebook.com/attherootsproject" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+										<li><a href="https://www.instagram.com/at.the.roots/" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+										<li><a href="https://www.linkedin.com/in/olivia-jerram-558534179/" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
+									</ul>
+								</header>
+
+							<!-- Content -->
+								<section>
+									<header class="main">
+										<h1>Alexander Alvara</h1>
+									</header>
+									<p><span class="small">By Olivia Jerram | August 11, 2020</span></p>
+
+									<span class="image main"><img src="images/Sara_Kahanamoku.jpeg" alt="" /></span>
+									<p><span class="small">CAPTION Courtesy: Alexander Alvara.</span></p>
+									
+									<div class="row">
+										<div class="col-10 off-10">
+
+											<h4 style="display:inline;">Name: </h4><p style="display:inline;">Alexander Alvara</p>
+											<br>
+											<br>
+											<h4 style="display:inline;">Age: </h4><p style="display:inline;">35</p>
+											<br>
+											<br>
+											<h4 style="display:inline;">Hometown: </h4><p style="display:inline;">In Alexander’s words, “I don't really have a hometown. I moved around a lot.”</p>
+											<br>
+											<br>
+											<h4 style="display:inline;">Department: </h4><p style="display:inline;">Mechanical engineering at UC Berkeley</p>
+											<br>
+											<br>
+											<h4 style="display:inline;">Research topic: </h4><p style="display:inline;">Designing microrobots and microsystems and exploring material behavior on extremely small scales.</p>
+											<br>
+											<br>
+									
+											<p>It’s getting dark on a Monday night when Alexander Alvara calls me. I’m sitting where I always sit: on my bed, with my laptop balanced on a pile of books in front of me. Alexander is sitting somewhere in his home, too, I guess, but it really could be anywhere — over Zoom, his body is surrounded by a glowing image of the Earth that clings tightly to his shoulders and beard.</p>
+                      <p>Looking back, that should have been a glaring clue. But I don’t really register how much he loves space until later, when he’s in the middle of telling me about a career fair he went to once when he was growing up. Back then, he’d walked up to someone and asked them why they didn’t have “astronaut” listed as a career anywhere.</p>
+                      <p>“I think they just laughed at me,” Alexander says, laughing himself. “So ... I guess I never really thought it was possible.”</p>
+                      <p>Alexander grew up in a big household with a single mother, so the way he tells it, there were a lot of things that didn’t really seem possible. Even if his dad had been around, he says, things wouldn’t have been much different because, like his mom, he’d have been at work all the time too.</p>
+                      <p>“It wasn't great; it wasn't fun. I had to take care of my brothers and sisters, [so I] woke up early in the morning, got them dressed, made them breakfast, walked them to school — I had to, otherwise they just wouldn't go. And then, you know, [I’d] be late for my own classes,” Alexander says. “[After school, I’d] pick them up and then go home and cook and clean and wait for Mom to get back from her second job.”</p>
+                      <p>Alexander says that this is how it was for most of the people he knew growing up around the places he lived.</p>
+                      <p>“We live in a capitalist country, so the poorest people are having to do the most work and getting the least pay. … That’s just the way it goes now, unfortunately, unless we vote or overthrow,” Alexander adds, pausing for half a second. “[And] eat the rich.”</p>
+                      <p>He laughs after he says all this, but by the time the interview ends, I understand that he laughs at a lot of things we both know aren’t very funny.</p>
+                      <p>He laughs when he says he realized how little research professors do and how much of the responsibility is actually on graduate students to publish papers, and again when he describes having to be on call around the clock to fix design errors only days before the mechanical parts he develops go out for production. And he laughs when he talks about Mitch McConnell.</p>
+                      <p>The reason we’re even talking about Mitch McConnell is kind of a long story, but it has something to do with everything in the world that needs to change.</p>
+                      <p>Here is a list of other changes that Alexander is working on: requiring UC Berkeley staff, faculty and administrators to attend diversity and inclusion trainings; acknowledging students’ work for affinity or advocate groups in their bids for professorships; increasing accountability for companies with ties to immigration law enforcement that want to recruit on campus; instating consequences for faculty who are accused of sexual harassment, biases or microaggresssions.</p>
+                      <p>“My goal is to say, ‘Okay, how can I help this next generation of students to be better about this, to understand that they can stand up?’ ” Alexander says. “I've had people tell me, ‘You don't belong here.’ I’ve had people say stuff like, ‘You're just here because of diversity.’ … I see these things as problems … [but] sometimes you can feel like a crazy man sitting in the street — no one understands what you're talking about, and … you're meant to feel like the things that you're doing aren't making an impact. But looking back at all the individuals, the faces of people who you're helping, is my sanity check.”</p>
+                      <p>Alexander and I talk a lot about mentorship — in fact, it seems to come up at nearly every turn in our conversation. So at one point, I ask him: If you look back, was there ever someone in your life who influenced and mentored you?</p>
+                      <p>“Well, growing up, not really,” Alexander says. “And then, for work,” he trails off, “not really.”</p>
+                      <p>When Alexander says, “for work,” he’s referring to the various jobs he had before starting community college, including the one that led him to UC Irvine and then to UC Berkeley for his PhD.</p>
+                      <p>“I got a job as a forklift driver and a warehouse worker, which was, you know, pretty normal for me — those types of jobs,” Alexander says. “I did pretty well, so they started to try to move me up and have me do more things … and essentially, that was the first time I came into contact with engineering concepts.”</p>
+                      <p>But that wasn’t when Alexander actually decided to become an engineer. First, he studied psychology, then computer science. Finally, looking for something more hands-on, he settled on mechanical engineering.</p>
+                      <p>Now, Alexander studies microrobotics and microsystems — in other words, he designs really, really small components that will fit into a really, really small package and still do everything that you would expect a larger system to do. This field encompasses projects related to how humans experience touch and how that functions on a microscale — that is, at sizes that require the use of a light microscope, allowing humans to see the details on a single hair or the shapes of cells.</p>
+                      <p>His PhD also includes research into how materials behave under stress tests, such as high pressure and voltage, at the nanoscale — an even smaller scale that is on the order of the size of a virus or the width of a strand of DNA. Alexander’s favorite project, though, takes us back to his love of space.</p>
+                      <p>He explains the increasing need for smaller satellites as more and more are sent up to orbit Earth, and he tells me that one of his goals would be to continue this sort of work with NASA someday. But ultimately, what he really wants to do is become a professor — to be a mentor.</p>
+                      <p>"I'm interested in increasing diversity efforts, increasing inclusion, and increasing access to programs, and being a focal point — even a small focal point — who students can look up to,” Alexander says. “Sure, someone may have said the word ‘engineer’ [to me], but they didn't take the time to explain to me what that meant and what it meant to go from point A to point B as a person [with] low income … what it [would] take to go from literally living off of $200 bucks a month to getting into college.”</p>
+                      <p>As a professor, Alexander believes he would be able to provide guidance to students in ways he wasn’t given. It would also allow him a wider platform to speak about the prejudice and injustices in academia, something we spend a long time discussing. He talks at length about his work with Bias Busters, the Latino/a Association of Graduate Students in Engineering and Science at UC Berkeley, the Society for Advancement of Chicanos/Hispanics and Native Americans in Science, and Graduate Pathways to STEM — all these groups that he volunteers his time for. But it’s something he says about this near the end of our conversation that really sticks with me.</p>
+                      <p>We’re talking about microaggressions and unconscious biases, and he’s in the middle of a thought about the longevity of these issues in institutions like UC Berkeley when he interrupts himself to say something else.</p>
+                      <p>“The thing is that the people who are being oppressed, that group is getting bigger and bigger, and soon you will be in that group because unfortunately, our system is not set up to support each individual. … Every person here is going to be fuel for the fire, potential collateral damage,” Alexander says. “[And] this should be the very end motivation — there should be many things that should cause you to get up and stand for what's right — but if this is the last thing on your list, make it about self-preservation, make it about yourself, that's fine — whatever gets you up and makes you realize, ‘This is going to hurt me in the future, too.’ ”</p>
+                      <p>My first thought immediately after Alexander says this is that this is where I want the story to end — with this image of fire and this call for action. But later, when I revisit our conversation, I come across something else Alexander said, buried in the middle of the interview.</p>
+                      <p>At this point, I’ve asked Alexander what it’s like to be a graduate student, if there are parts of his experience that stand out either as positive or negative. He’s wrapping up his thoughts and we’re about to move on, when he interjects with a second favorite part, saying that he wants “to kind of get away from the negative.”</p>
+                      <p>Hearing this again, I decide this is the place to end. So here it is:</p>
+                      <p style="display:inline;">“Another favorite part … is just knowing that, barring anything catastrophic — any other … catastrophic [thing] than has already happened,” Alexander tells me, throwing in a laugh before finishing his thought. “Barring that, I am going to finish. I’m going to complete [my PhD]. And … I will eventually have a job. Whether I’m directly impacting students in my lab, or I’m working and then in my off time I’m contributing to my community, or I’m teaching at a community college or something, I know, either way, I’m going to have my job and [I’m] going to have my community engagement. … And, you know, those are the best things.” </p> <span style="display:inline;" class="icon solid fa-leaf"></span>
+											<br>
+											<br>
+											<p><i>To learn more about Alexander’s research, check out his <a href="https://sites.google.com/berkeley.edu/engineer-alvara/home?authuser=0">website</a>. To read more about some of the organizations Alexander works with, visit the websites for <a href="https://biasbusters.berkeley.edu/">Bias Busters</a>, <a href="https://lagses.berkeley.edu/">LAGSES</a>, <a href="https://www.sacnas.org/">SACNAS</a>, <a href="https://engineering.berkeley.edu/admissions/graduate-admissions/graduate-student-outreach/graduate-pathways-to-stem/">Graduate Pathways to STEM</a>.</i></p>
+											
+										</div>
+									</div>
+
+
+									<!--
+									<hr class="major" />
+									<h2>Interdum sed dapibus</h2>
+									<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.</p>
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.</p>
+									<hr class="major" />
+									<h2>Magna etiam veroeros</h2>
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.</p>
+									<p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.</p>
+									<hr class="major" />
+									<h2>Lorem aliquam bibendum</h2>
+									<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.</p>
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.</p>
+									-->
+
+								</section>
+
+						</div>
+					</div>
+
+				<!-- Sidebar -->
+					<div id="sidebar">
+						<div class="inner">
+
+							<!-- Search 
+								<section id="search" class="alt">
+									<form method="post" action="#">
+										<input type="text" name="query" id="query" placeholder="Search" />
+									</form>
+								</section>
+							-->
+
+							<!-- Menu -->
+								<nav id="menu">
+									<header class="major">
+										<h2>Menu</h2>
+									</header>
+									<ul>
+										<li><a href="index.html">Homepage</a></li>
+										<!--
+										<li><a href="generic.html">Generic</a></li>
+										<li><a href="elements.html">Elements</a></li>
+										-->
+										<li>
+											<span class="opener">Features</span>
+											<ul>
+                        <li><a href="alvara.html">Alexander Alvara</a></li>
+                        <li><a href="kahanamoku.html">Sara Kahanamoku</a></li>
+                        <li><a href="halevi.html">Goni Halevi</a></li>
+												<li><a href="wrensford.html">Kwasi Wrensford</a></li>
+												<li><a href="sedaghatpour.html">Maryam Sedaghatpour</a></li>
+                        <!--
+												<li><a href="#">Tempus Magna</a></li>
+												<li><a href="#">Feugiat Veroeros</a></li>
+												-->
+											</ul>
+										</li>
+										<!-- 
+										<li><a href="#">Etiam Dolore</a></li>
+										<li><a href="#">Adipiscing</a></li>
+										<li>
+											<span class="opener">Another Submenu</span>
+											<ul>
+												<li><a href="#">Lorem Dolor</a></li>
+												<li><a href="#">Ipsum Adipiscing</a></li>
+												<li><a href="#">Tempus Magna</a></li>
+												<li><a href="#">Feugiat Veroeros</a></li>
+											</ul>
+										</li>
+										<li><a href="#">Maximus Erat</a></li>
+										<li><a href="#">Sapien Mauris</a></li>
+										<li><a href="#">Amet Lacinia</a></li>
+										Menu -->
+								</nav>
+
+							<!-- Section 
+								<section>
+									<header class="major">
+										<h2>Ante interdum</h2>
+									</header>
+									<div class="mini-posts">
+										<article>
+											<a href="#" class="image"><img src="images/pic07.jpg" alt="" /></a>
+											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/pic08.jpg" alt="" /></a>
+											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/pic09.jpg" alt="" /></a>
+											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
+										</article>
+									</div>
+									<ul class="actions">
+										<li><a href="#" class="button">More</a></li>
+									</ul>
+								</section>
+							-->
+
+							<!-- Section -->
+								<section>
+									<header class="major">
+										<h2>Get in touch</h2>
+									</header>
+									<p>If you would like to talk about your research and your experiences in academia and beyond, or if you have questions about the project, please reach out.</p>
+									<ul class="contact">
+										<li class="icon solid fa-envelope"><a href="mailto: attherootsproject@gmail.com">attherootsproject@gmail.com</a></li>
+										<!--
+										<li class="icon solid fa-phone">(000) 000-0000</li>
+										<li class="icon solid fa-home">1234 Somewhere Road #8254<br />
+										Nashville, TN 00000-0000</li>
+										-->
+									</ul>
+								</section>
+
+							<!-- Footer -->
+								<footer id="footer">
+									<p class="copyright">&copy; Olivia Jerram 2020. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
+								</footer>
+
+						</div>
+					</div>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
